@@ -1,4 +1,4 @@
-# zsh
+# kraken-zsh
 Dark theme for zsh
 
 ## Screeenshots
